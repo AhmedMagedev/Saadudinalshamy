@@ -15,9 +15,9 @@ export default function Home() {
         />
       </div>
       <div className="justify-center h-full w-full pt-20">
-        <p className="text-center text-4xl ">جاري العمل</p>
+        <p className="text-center text-4xl font-Madani">جاري العمل</p>
       </div>
-      <div className="justify-bottom h-full w-full pt-12 bg-white">
+      <div className="justify-bottom h-full w-full pt-16 bg-white">
         <Image src={bg} height={100} width={2000} alt="bg" />
       </div>
     </div>

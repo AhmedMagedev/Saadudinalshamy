@@ -10,6 +10,10 @@ module.exports = {
       backgroundImage: {
         building: "/Building.svg",
       },
+      fontFamily: {
+        Madani: "var(--font-madani)",
+        Noto_Kufi_Arabic: "var(--font-noto-kufi)",
+      },
     },
   },
   plugins: [],
